@@ -3,5 +3,5 @@
 #當前有效網址：<br>
 http://5.96.dvrdns.org/<br>
 http://ho.otzo.com/<br>
-http://85.gotdns.ch/<br>
+http://33.myftp.biz/<br>
 http://5.5.stl.cl/<br>
